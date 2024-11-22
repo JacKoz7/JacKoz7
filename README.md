@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning fullstack web development as I embark on my journey into the world of coding.<br><br>🤝 I’m looking to collaborate on fun and innovative web development projects.<br><br>🧠 I’m currently learning JavaScript frameworks and Python programming.<br><br>💡 As a young, aspiring developer, I’m excited to continuously improve and grow my coding skills.<br><br>⚡ When I'm not coding, I'm either hitting the gym or exploring the world of new technologies!<br>
+🔭 I’m currently working on learning fullstack web development as I embark on my journey into the world of coding.<br><br>🤝 I’m looking to collaborate on fun and innovative web development projects.<br><br>🧠 I'm currently learning JavaScript frameworks and AI/ML with Python.<br><br>💡 As a young, aspiring developer, I’m excited to continuously improve and grow my coding skills.<br><br>⚡When I'm not coding, I'm either dancing, working out, or exploring the world of new technologies!<br>
 
 
 ## 🌐 Socials:
@@ -27,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JacKoz7&icon=5&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
