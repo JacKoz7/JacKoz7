@@ -1,0 +1,21 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main  # lub master, jeśli używasz tej nazwy
+  pull_request:
+    branches:
+      - main  # lub master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Generate snake animation
+        uses: Platane/snk@master
+        with:
+          github_user: 'JacKoz7'  # Twój GitHub username
+          github_token: ${{ secrets.GITHUB_TOKEN }}
