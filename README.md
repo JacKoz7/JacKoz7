@@ -13,7 +13,7 @@
 
 </div>
 
-### 🌐 Socials
+# 🌐 Socials
 
 <div align="center">
   <a href="https://facebook.com/jackatday.pl.3">
@@ -60,6 +60,7 @@
 ### 🖥️ OS & Tools  
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -78,4 +79,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+  ![snake gif](https://github.com/JacKoz7/JacKoz7/blob/output/github-snake-dark.svg)
 </div>
