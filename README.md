@@ -1,16 +1,81 @@
-# 💫 About Me:
-🔭 I’m currently working on learning fullstack web development as I embark on my journey into the world of coding.<br><br>🤝 I’m looking to collaborate on fun and innovative web development projects.<br><br>🧠 I'm currently learning JavaScript and Typescript frameworks.<br><br>💡 As a young, aspiring developer, I’m excited to continuously improve and grow my coding skills.<br><br>⚡When I'm not coding, I'm either dancing, working out, or exploring the world of new technologies!<br>
+<div align="center">
 
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=💫%20About%20Me!&fontSize=40&fontAlign=50&fontColor=fff&animation=twinkling" />
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jackatday.pl.3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JacKoz77) 
+  <p>🔭 I’m currently diving deep into the world of software development, constantly expanding my skillset across fullstack, cloud, and database technologies.</p>
+  <p>🤝 I’m eager to collaborate on exciting and meaningful projects — whether it's building web apps, optimizing backend logic, or experimenting with cloud infrastructure.</p>
+  <p>🧠 I learn quickly, adapt easily, and thrive in dynamic environments that challenge me to grow — whether it's mastering a new framework or designing scalable systems.</p>
+  <p>☁️ Recently, I’ve been exploring cloud technologies like AWS and getting hands-on with modern backend tools like Node.js, Express or MongoDB.</p>
+  <p>💡 I enjoy crafting thoughtful solutions and writing clean, efficient code — whether in TypeScript, Python, or even that cursed language PHP (don’t ask).</p>
+  <p>⚡ When I'm not coding, I'm either dancing, working out, or exploring the world of new technologies!</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JacKoz7&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JacKoz7&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=JacKoz7&icon=5&color=2)](https://visitcount.itsvg.in)
+### 🌐 Socials
 
+<div align="center">
+  <a href="https://facebook.com/jackatday.pl.3">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://x.com/JacKoz77">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jacek-kozlowski1/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 🌐 Web Development  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+
+### 🗄️ Databases  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+
+### ☁️ Cloud & DevOps  
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+
+### 💻 Programming Languages  
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/swift-F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white" />
+
+### 🖥️ OS & Tools  
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+
+</div>
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JacKoz7&theme=calm_pink&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacKoz7&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacKoz7&theme=tokyonight&utcOffset=8" />
+
+</div>
+
+# 🧠 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
