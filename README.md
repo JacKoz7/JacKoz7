@@ -1,72 +1,71 @@
 <div align="center">
 
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=💫%20About%20Me!&fontSize=40&fontAlign=50&fontColor=fff&animation=twinkling" />
-</div>
-
-  <p>🔭 I’m currently diving deep into the world of software development, constantly expanding my skillset across fullstack, cloud, and database technologies.</p>
-  <p>🤝 I’m eager to collaborate on exciting and meaningful projects — whether it's building web apps, optimizing backend logic, or experimenting with cloud infrastructure.</p>
-  <p>🧠 I learn quickly, adapt easily, and thrive in dynamic environments that challenge me to grow — whether it's mastering a new framework or designing scalable systems.</p>
-  <p>☁️ Recently, I’ve been exploring cloud technologies like AWS and getting hands-on with modern backend tools like Node.js, Express or MongoDB.</p>
-  <p>💡 I enjoy crafting thoughtful solutions and writing clean, efficient code — whether in TypeScript, Python, or even that cursed language PHP (don’t ask).</p>
-  <p>⚡ When I'm not coding, I'm either dancing, working out, or exploring the world of new technologies!</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jakub+%F0%9F%91%8B;Fullstack+Developer;Mobile+App+Developer+(React+Native);AI+Enthusiast" alt="Typing SVG" />
 
 </div>
 
-# 💻 Tech Stack
+---
+
+## 💫 About Me
+
+- 📱 Currently focused on building cross-platform mobile applications with **React Native** and **Expo** — crafting smooth, performant experiences for both iOS and Android.
+- 🤖 Expanding my knowledge in **AI Engineering** and **Advanced Data Mining & Exploration** — diving deep into ML pipelines, data analysis, and model building.
+- 🌐 Fluent in building scalable, full-stack applications, primarily with **Next.js** — from design to deployment.
+- 🤝 Eager to collaborate on exciting and meaningful projects — whether it's building apps, optimizing backend logic, or experimenting with cloud infrastructure.
+- 🧠 A quick learner who adapts easily and thrives in dynamic environments — always ready to master a new framework or design scalable systems.
+- ⚡ When not coding, I'm usually dancing, working out, or exploring the newest tech trends.
+
+> 🤖 **A note on AI:** I openly use AI tools like Claude for routine tasks, debugging, and learning new concepts. However, the architecture, logic, and creative decisions are always mine. *AI accelerates — solid fundamentals drive.*
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
-### 🌐 Web Development  
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+### 🚀 Expertise — Ready to Work With
 
-### 🗄️ Databases  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
-### ☁️ Cloud & DevOps  
+### 📚 Currently Learning — Expanding Into
+
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-
-### 💻 Programming Languages  
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/swift-F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white" />
-
-### 🖥️ OS & Tools  
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
-# 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JacKoz7&theme=calm_pink&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacKoz7&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JacKoz7&theme=tokyonight&utcOffset=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JacKoz7&theme=calm_pink&hide_border=false" />
 
 </div>
 
-# 🧠 Quote of the Day
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-  ![snake gif](https://github.com/JacKoz7/JacKoz7/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/JacKoz7/JacKoz7/blob/output/github-snake-dark.svg)
+
 </div>
