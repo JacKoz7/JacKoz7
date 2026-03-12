@@ -1,29 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jakub+%F0%9F%91%8B;Fullstack+Developer;Mobile+App+Developer+(React+Native);AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jacek+%F0%9F%91%8B;Fullstack+Developer;Mobile+App+Developer+(React+Native);AI+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨🏻‍💻 About Me
 
 - 📱 Currently focused on building cross-platform mobile applications with **React Native** and **Expo** — crafting smooth, performant experiences for both iOS and Android.
 - 🤖 Expanding my knowledge in **AI Engineering** and **Advanced Data Mining & Exploration** — diving deep into ML pipelines, data analysis, and model building.
 - 🌐 Fluent in building scalable, full-stack applications, primarily with **Next.js** — from design to deployment.
 - 🤝 Eager to collaborate on exciting and meaningful projects — whether it's building apps, optimizing backend logic, or experimenting with cloud infrastructure.
 - 🧠 A quick learner who adapts easily and thrives in dynamic environments — always ready to master a new framework or design scalable systems.
-- ⚡ When not coding, I'm usually dancing, working out, or exploring the newest tech trends.
+- 🏋 When not coding, I'm usually dancing, working out, or exploring the newest tech trends.
 
-> 🤖 **A note on AI:** I openly use AI tools like Claude for routine tasks, debugging, and learning new concepts. However, the architecture, logic, and creative decisions are always mine. *AI accelerates — solid fundamentals drive.*
+> 💡 **My approach to AI:** 
+I occasionally use **GitHub Copilot** and **Claude** to speed up boilerplate or quick debugging. However, the actual coding, architecture, and logic are all mine.
 
 ---
 
-## 💻 Tech Stack
+## 💡 Tech Stack
 
 <div align="center">
 
-### 🚀 Expertise — Ready to Work With
+### 💻 Expertise — Ready to Work With
 
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
