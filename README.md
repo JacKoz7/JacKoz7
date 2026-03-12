@@ -8,6 +8,7 @@
 
 ## 👨🏻‍💻 About Me
 
+- 🎓 Computer Science engineer, specialized in **Software Engineering** — currently pursuing a Master's degree in Computer Science with a focus on **Artificial Intelligence Engineering**
 - 📱 Currently focused on building cross-platform mobile applications with **React Native** and **Expo** — crafting smooth, performant experiences for both iOS and Android.
 - 🤖 Expanding my knowledge in **AI Engineering** and **Advanced Data Mining & Exploration** — diving deep into ML pipelines, data analysis, and model building.
 - 🌐 Fluent in building scalable, full-stack applications, primarily with **Next.js** — from design to deployment.
