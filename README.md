@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jacek+%F0%9F%91%8B;Fullstack+Developer;Mobile+App+Developer+(React+Native);AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jacek+%F0%9F%91%8B;Mobile+App+Developer;AI+Enthusiast;Fullstack+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
-- 🎓 Computer Science engineer, specialized in **Software Engineering** — currently pursuing a Master's degree in Computer Science with a focus on **Artificial Intelligence Engineering**
-- 📱 Currently focused on building cross-platform mobile applications with **React Native** and **Expo** — crafting smooth, performant experiences for both iOS and Android.
-- 🤖 Expanding my knowledge in **AI Engineering** and **Advanced Data Mining & Exploration** — diving deep into ML pipelines, data analysis, and model building.
-- 🌐 Fluent in building scalable, full-stack applications, primarily with **Next.js** — from design to deployment.
-- 🤝 Eager to collaborate on exciting and meaningful projects — whether it's building apps, optimizing backend logic, or experimenting with cloud infrastructure.
-- 🧠 A quick learner who adapts easily and thrives in dynamic environments — always ready to master a new framework or design scalable systems.
+- 🎓 Computer Science engineer, specialized in **Software Engineering** - currently pursuing a Master's degree in Computer Science with a focus on **Artificial Intelligence Engineering**
+- 📱 Currently focused on building cross-platform mobile applications with **React Native** and **Expo** - crafting smooth, performant experiences for both iOS and Android.
+- 🤖 Expanding my knowledge in **AI Engineering** and **Advanced Data Mining & Exploration** - diving deep into ML pipelines, data analysis, and model building.
+- 🌐 Fluent in building scalable, full-stack applications, primarily with **Next.js** - from design to deployment.
+- 🤝 Eager to collaborate on exciting and meaningful projects - whether it's building apps, optimizing backend logic, or experimenting with cloud infrastructure.
+- 🧠 A quick learner who adapts easily and thrives in dynamic environments - always ready to master a new framework or design scalable systems.
 - 🏋 When not coding, I'm usually dancing, working out, or exploring the newest tech trends.
 
 > 💡 **My approach to AI:** I occasionally use **GitHub Copilot** and **Claude** to speed up boilerplate or quick debugging. However, the actual coding, architecture, and logic are all mine.
