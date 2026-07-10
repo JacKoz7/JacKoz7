@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1193px" height="670px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1193px" height="670px" fill="#161b22" rx="15"/>
+<text x="15" y="47" fill="#c9d1d9" class="ascii" font-size="10px">
+<tspan x="15" y="47"/>
+<tspan x="15" y="59"/>
+<tspan x="15" y="71"/>
+<tspan x="15" y="83"/>
+<tspan x="15" y="95"/>
+<tspan x="15" y="107"/>
+<tspan x="15" y="119"/>
+<tspan x="15" y="131"/>
+<tspan x="15" y="143"/>
+<tspan x="15" y="155">                                       I?)rXJmmmwdpbpOCzj{I</tspan>
+<tspan x="15" y="167">                                   ^}zbM@@@@@@@@@@@@@@@@@@Mdu!</tspan>
+<tspan x="15" y="179">                                 ,co@@@@%M%%%%%M%%%%%%%%%%@@@%Q]</tspan>
+<tspan x="15" y="191">                                ~k@@M%%%%@@@@@%%%%%%%%%@@@%%%@@@w1</tspan>
+<tspan x="15" y="203">                               )*@%%%%%@@@%%%%%%%@@%%%%@@@@@@%%%@@Y,</tspan>
+<tspan x="15" y="215">                             'C@@%@@@@@@@@@@@@@@@%%@@%%%%%%@@@@@%%@d</tspan>
+<tspan x="15" y="227">                             (@%%@%@oJ|?++?]tUqaM@@#%@@@@@@%%@@@@@M@t</tspan>
+<tspan x="15" y="239">                            'q%%%@M0?          ,~11_-)|fX0h@@@@@@@%%%]</tspan>
+<tspan x="15" y="251">                            {%%%%%0i ````''```'          'I|m%@@@@@%@O</tspan>
+<tspan x="15" y="263">                            Z@%%@d]'`''''''''''''''''````^,^+cM@%@@%%d</tspan>
+<tspan x="15" y="275">                           `k@M%a|:^'''''''''''''''''''''`^;I~q@%@@%%(</tspan>
+<tspan x="15" y="287">                           ;#@%m?,:'    '''''''''''''''````^;~Y%%@%%C</tspan>
+<tspan x="15" y="299">                           -@%bl^!I;l;;,    '  '''''``````^^I]r*@%%@(</tspan>
+<tspan x="15" y="311">                           -@@1'~{1[--{/rf?^ '  '        ''`-|/b@%%k^</tspan>
+<tspan x="15" y="323">                         :^~%Q'I~1nuft1(tzXr; '' '_fzXzu(1(+{r(C@%@f</tspan>
+<tspan x="15" y="335">                         ^l^/_^;,_LqUpqLfz)(j^  [CQQzt[-}{|jQY)v%%b`</tspan>
+<tspan x="15" y="347">                         ''++;I^^^!-!I;l!l:~]` :Zr}j|OpwCZLunu)z%@1</tspan>
+<tspan x="15" y="359">                         ` ^il,```  ''`''':I,' !x{;!_]juckm|?/1J@L~!</tspan>
+<tspan x="15" y="371">                         ''`~i^``'''     ,I;`' +/[^'```,!iil~({XOt|:</tspan>
+<tspan x="15" y="383">                         ``,-!:^`''     ^,,' '  }1'''''' `;l+((Ox};</tspan>
+<tspan x="15" y="395">                           `!l:::'''''' l!x)  ;/-[; ''''`,I~}|nn,;^</tspan>
+<tspan x="15" y="407">                            ,l^^;,`'  ''^ll?]?xu[)I ''''`:?]1xc}:'</tspan>
+<tspan x="15" y="419">                            `l`^,,`'I;''    ^^`^:,^,^``^l}}[nJ?!;</tspan>
+<tspan x="15" y="431">                             ~:^:^' _fx/[+~l;lllIIi!^^,_[_l|]i`</tspan>
+<tspan x="15" y="443">                             Ii^;:'' `!~l;:I!+{uYCz- `_-;`)?</tspan>
+<tspan x="15" y="455">                             '?;:I^'`'  '''``^I+][; '!-I,{{</tspan>
+<tspan x="15" y="467">                              {]I:,`'''''''````^:,,:i-!!)1</tspan>
+<tspan x="15" y="479">                             '+1(-I^`''''''''``^:Il?]+?j{</tspan>
+<tspan x="15" y="491">                             ,!l{f(-;`     ''`^:I~[1{tzJ^</tspan>
+<tspan x="15" y="503">                             ;I:;_|jrt[+!:^`^:!-1fxuYYX(</tspan>
+<tspan x="15" y="515">                            `lI:,,l?{|rvcvunxuzzzccx(][]</tspan>
+<tspan x="15" y="527">                           IilI:^^,l!II;Ii_?[{((|)-l;I_(I'</tspan>
+<tspan x="15" y="539">                        '` f-:;:^^^;II;:^ '`,:I~+l:::I+(-~ '</tspan>
+<tspan x="15" y="551">                       '^' i?^::^``^:,^^^,,:::;lI,,,:I~/Uu  ,`</tspan>
+<tspan x="15" y="563">                    ''`^^`  !^^,^^``,:^'''``^,::,^^,:;I/X- ':I,`</tspan>
+<tspan x="15" y="575">                ''''''````'  ,^^^```'^,^```^,,,^``^,,:,||  `::^^^''</tspan>
+<tspan x="15" y="587">             '''''  '''''``'  ^^^``''''````^^`````^^^,:~, '`^`''`'''``'''</tspan>
+<tspan x="15" y="599">     '''''''''''' '   '''''''  `^^`'''''''`''''``^^^`^^  ''`````'''' ''''```''</tspan>
+<tspan x="15" y="611">''''''''''''''''''''    '''''''  `^`'''''``'''''`^`'``' ''````''' ' '''''''''`````''</tspan>
+<tspan x="15" y="623">''''''''''   '''''''      ''''  ``'`'''''''''''``''`'' '```''''  '''''''''''''''''````''</tspan>
+<tspan x="15" y="635">''''''''''       '''       ''`,l!:^`''''''''  ''''''' '`'''''    ''''''''''''''''''''`^^</tspan>
+</text>
+<text x="567" y="30" fill="#c9d1d9">
+<tspan x="567" y="30">jacek@kozlowski</tspan> -———————————————————————————————————————————-—-
+<tspan class="cc" x="567" y="50">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">macOS, Windows, iOS</tspan>
+<tspan class="cc" x="567" y="70">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ........................ </tspan><tspan class="value" id="age_data">21 years, 9 months, 28 days</tspan>
+<tspan class="cc" x="567" y="90">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Mobile Application Developer</tspan>
+<tspan class="cc" x="567" y="110">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Politechnika Lubelska, MSc</tspan>
+<tspan class="cc" x="567" y="130">. </tspan><tspan class="key">Major</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Artificial Intelligence Engineering</tspan>
+<tspan class="cc" x="567" y="150">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">VS Code</tspan>
+<tspan class="cc" x="567" y="170">. </tspan>
+<tspan class="cc" x="567" y="190">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AI engineering, mobile development</tspan>
+<tspan class="cc" x="567" y="210">. </tspan>
+<tspan class="cc" x="567" y="230">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Mobile</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">React Native, Expo, Firebase</tspan>
+<tspan class="cc" x="567" y="250">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">PostgreSQL, MongoDB, SQL</tspan>
+<tspan class="cc" x="567" y="270">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">PyTorch, scikit-learn, pandas</tspan>
+<tspan class="cc" x="567" y="290">. </tspan>
+<tspan class="cc" x="567" y="310">. </tspan><tspan class="key">Learning</tspan>.<tspan class="key">Now</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">RAG, LLM agents, vector databases</tspan>
+<tspan class="cc" x="567" y="330">. </tspan><tspan class="key">Learning</tspan>.<tspan class="key">Next</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">MLOps, serving models in production</tspan>
+<tspan class="cc" x="567" y="350">. </tspan>
+<tspan class="cc" x="567" y="370">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">TypeScript, Python</tspan>
+<tspan class="cc" x="567" y="390">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Polish, English</tspan>
+<tspan class="cc" x="567" y="410">. </tspan>
+<tspan class="cc" x="567" y="430">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Dancing, gym, side projects</tspan>
+<tspan x="567" y="450"/>
+<tspan x="567" y="470">- Contact</tspan> -—————————————————————————————————————————————————-—-
+<tspan class="cc" x="567" y="490">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">jacek.kozlovski@gmail.com</tspan>
+<tspan class="cc" x="567" y="510">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">jacekkozlowski.com</tspan>
+<tspan class="cc" x="567" y="530">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">jacek-kozlowski1</tspan>
+<tspan class="cc" x="567" y="550">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Lublin, Poland</tspan>
+<tspan x="567" y="570"/>
+<tspan x="567" y="590">- GitHub Stats</tspan> -————————————————————————————————————————————-—-
+<tspan class="cc" x="567" y="610">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">20</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">33</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">23</tspan>
+<tspan class="cc" x="567" y="630">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">1,706</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">6</tspan>
+<tspan class="cc" x="567" y="650">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">481,180</tspan> ( <tspan class="addColor" id="loc_add">809,224</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">328,044</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
